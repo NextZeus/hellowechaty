@@ -1,0 +1,18 @@
+{
+  "name": "hellowechaty",
+  "version": "1.0.0",
+  "description": "learn wechaty demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechaty"
+  ],
+  "author": "xiaodong.li",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "wechaty": "^0.8.91"
+  }
+}
