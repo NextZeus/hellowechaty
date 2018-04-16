@@ -12,7 +12,7 @@
   "author": "xiaodong.li",
   "license": "ISC",
   "dependencies": {
-    "qrcode-terminal": "^0.11.0",
-    "wechaty": "^0.8.91"
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.15.3"
   }
 }
